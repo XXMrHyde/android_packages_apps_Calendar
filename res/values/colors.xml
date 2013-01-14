@@ -123,9 +123,14 @@
     <color name="agenda_selected_text_color">#FFFFFFFF</color>
     <!-- Text color of the "new event" hint in day and week views -->
     <color name="new_event_hint_text_color">#FFFFFFFF</color>
+    <!-- background color for the event info _fragment 1 -->
+    <color name="agenda_event_info_fragment_bg1">#FFFFFFFF</color>
+    <!-- background color for the event info _fragment 2 -->
+    <color name="agenda_event_info_fragment_bg2">#FFFFFFFF</color>
 
     <!-- Text color of a clicked event in the day/week view -->
     <color name="day_event_clicked_background_color">#8033B5E5</color>
+
     <!-- background color for for clicked days in month view-->
     <color name="day_clicked_background_color">#FF33B5E5</color>
     <!-- background color for the past -->
@@ -140,6 +145,8 @@
     <color name="event_info_body_color">#FF666666</color>
     <color name="event_info_label_color">#FF999999</color>
     <color name="event_info_label_background_color">#FFDDDDDD</color>
+    <color name="event_info_background_color">#FFfafafa</color>
+    <color name="event_info_dialog_background_color">#FFfafafa</color>
 
     <color name="text_shadow_color">#4D000000</color>
 

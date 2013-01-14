@@ -251,4 +251,9 @@
     <style name="NotificationSecondaryText" parent="@android:style/TextAppearance.Holo">
         <item name="android:textColor">?android:attr/textColorSecondary</item>
     </style>
+    <style name="SelectVisibleCalendars" parent="@android:style/Theme.Holo.Light" />
+
+    <style name="SelectSyncedCalendars" parent="@android:style/Theme.Holo.Light" />
+
+    <style name="CalendarSettings" parent="@android:style/Theme.Holo.Light" />
 </resources>
