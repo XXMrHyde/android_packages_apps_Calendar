@@ -52,6 +52,7 @@
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
     <color name="calendar_grid_line_inner_vertical_color">#FFCCCCCC</color>
     <color name="calendar_grid_line_highlight_color">#ff707070</color>
+    <color name="calendar_name_text_color">#ff333333</color>
 
     <color name="mini_month_bg_color">#FFFFFFFF</color>
     <color name="mini_month_today_outline_color">#FF000000</color>
@@ -158,6 +159,7 @@
 
     <color name="appwidget_date">#ffEEEEEE</color>
     <color name="appwidget_week">@android:color/white</color>
+    <color name="appwidget_week_shadow">#0dffffff</color>
     <color name="appwidget_month">#ffEEEEEE</color>
 
     <!-- Text color of declined events in widget view -->
@@ -171,4 +173,7 @@
     <color name="appwidget_when">#ffffffff</color>
     <color name="appwidget_where">#ffffffff</color>
     <color name="appwidget_no_events">#ffffffff</color>
+
+    <color name="reminder_add_text_color">#ff777777</color>
+    <color name="button_1_text_color">#ff777777</color>
 </resources>
