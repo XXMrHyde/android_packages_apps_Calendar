@@ -280,4 +280,10 @@
         <item name="android:paddingTop">4dp</item>
         <item name="android:paddingBottom">4dp</item>
         </style>
+
+    <style name="SelectVisibleCalendars" parent="@android:style/Theme.Holo.Light" />
+
+    <style name="SelectSyncedCalendars" parent="@android:style/Theme.Holo.Light" />
+
+    <style name="CalendarSettings" parent="@android:style/Theme.Holo.Light" /> 
 </resources>

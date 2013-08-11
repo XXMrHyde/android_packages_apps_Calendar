@@ -52,6 +52,7 @@
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
     <color name="calendar_grid_line_inner_vertical_color">#FFCCCCCC</color>
     <color name="calendar_grid_line_highlight_color">#ff707070</color>
+    <color name="calendar_name_text_color">#ff333333</color>
 
     <color name="mini_month_bg_color">#FFFFFFFF</color>
     <color name="mini_month_today_outline_color">#FF000000</color>
@@ -118,6 +119,10 @@
     <color name="agenda_selected_text_color">#FFFFFFFF</color>
     <!-- Text color of the "new event" hint in day and week views -->
     <color name="new_event_hint_text_color">#FFFFFFFF</color>
+    <!-- background color for the event info _fragment 1 -->
+    <color name="agenda_event_info_fragment_bg1">#FFFFFFFF</color>
+    <!-- background color for the event info _fragment 2 -->
+    <color name="agenda_event_info_fragment_bg2">#FFFFFFFF</color> 
 
     <!-- Text color of a clicked event in the day/week view -->
     <color name="day_event_clicked_background_color">#8033B5E5</color>
@@ -135,6 +140,8 @@
     <color name="event_info_body_color">#FF666666</color>
     <color name="event_info_label_color">#FF999999</color>
     <color name="event_info_label_background_color">#FFDDDDDD</color>
+    <color name="event_info_background_color">#FFfafafa</color>
+    <color name="event_info_dialog_background_color">#FFfafafa</color>
 
     <!-- Create event colors -->
     <color name="create_event_date_color">#FF000000</color>
@@ -151,6 +158,7 @@
 
     <color name="appwidget_date">#ffEEEEEE</color>
     <color name="appwidget_week">@android:color/white</color>
+    <color name="appwidget_week_shadow">#0dffffff</color>
     <color name="appwidget_month">#ffEEEEEE</color>
 
     <!-- Text color of declined events in widget view -->
@@ -167,4 +175,7 @@
 
     <color name="recurrence_picker_background">#fff2f2f2</color>
     <color name="recurrence_bubble_text_normal">#ff737373</color>
+
+    <color name="reminder_add_text_color">#ff777777</color>
+    <color name="button_1_text_color">#ff777777</color> 
 </resources>
